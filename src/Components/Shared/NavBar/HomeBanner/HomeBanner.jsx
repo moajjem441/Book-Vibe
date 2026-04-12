@@ -15,7 +15,10 @@ const HomeBanner = () => {
     </div>
   </div>
 </div>
-        </div>
+        
+
+
+</div>
     );
 };
 
