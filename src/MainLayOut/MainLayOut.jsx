@@ -5,8 +5,10 @@ import { Outlet } from 'react-router';
 const MainLayOut = () => {
     return (
         <div>
+
             <Navbar></Navbar>
             <Outlet></Outlet>
+            
         </div>
     );
 };
