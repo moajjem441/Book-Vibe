@@ -1,7 +1,7 @@
 import React from 'react';
 
 const BookPage = () => {
-    
+
     return (
 
         <div>
@@ -9,5 +9,6 @@ const BookPage = () => {
         </div>
     );
 };
+
 
 export default BookPage;
