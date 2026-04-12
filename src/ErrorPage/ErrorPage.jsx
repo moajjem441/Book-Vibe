@@ -22,6 +22,8 @@ const ErrorPage = () => {
           href="/"
           className="inline-block px-6 py-3 bg-indigo-600 hover:bg-indigo-700 transition rounded-2xl shadow-lg"
         >
+          
+
           Go Home
         </a>
       </div>
