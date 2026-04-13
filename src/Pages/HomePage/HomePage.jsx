@@ -2,7 +2,7 @@ import React from 'react';
 import HomeBanner from '../../Components/Shared/NavBar/HomeBanner/HomeBanner';
 
 const HomePage = () => {
-    
+
     return (
         <div>
 
@@ -11,5 +11,6 @@ const HomePage = () => {
         </div>
     );
 };
+
 
 export default HomePage;
