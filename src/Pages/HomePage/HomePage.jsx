@@ -4,8 +4,9 @@ import HomeBanner from '../../Components/Shared/NavBar/HomeBanner/HomeBanner';
 const HomePage = () => {
     return (
         <div>
-            
+
             <HomeBanner></HomeBanner>
+            
         </div>
     );
 };
