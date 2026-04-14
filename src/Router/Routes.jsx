@@ -5,10 +5,10 @@ import MainLayOut from "../MainLayOut/MainLayOut.jsx";
 import ErrorPage from "../ErrorPage/ErrorPage.jsx";
 
 
-
 export const router =createBrowserRouter([
-  
+
   {
+    
     path:"/",
     element :<MainLayOut></MainLayOut>,
     children :[
