@@ -20,8 +20,9 @@ export const router =createBrowserRouter([
         path:"/book",
         Component:BookPage
       }
+      
     ],
-    
+
     errorElement:<ErrorPage></ErrorPage>
   }
 
