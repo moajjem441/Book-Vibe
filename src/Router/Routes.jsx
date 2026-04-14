@@ -8,7 +8,7 @@ import ErrorPage from "../ErrorPage/ErrorPage.jsx";
 export const router =createBrowserRouter([
 
   {
-    
+
     path:"/",
     element :<MainLayOut></MainLayOut>,
     children :[
@@ -23,4 +23,5 @@ export const router =createBrowserRouter([
     ],
     errorElement:<ErrorPage></ErrorPage>
   }
+  
 ])
