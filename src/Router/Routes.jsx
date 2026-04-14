@@ -16,8 +16,9 @@ export const router =createBrowserRouter([
         index:true,
         Component:HomePage
       },
+      
       {
-        
+
         path:"/book",
         Component:BookPage
 
